@@ -1,0 +1,40 @@
+{
+    "mutations": [
+        "Shiny",
+        "Sparkling",
+        "Big",
+        "Giant",
+        "Shrouded",
+        "Mythical",
+        "Abyssal",
+        "Spirit",
+        "Greedy",
+        "Crimson",
+        "Boreal",
+        "Vined",
+        "Fossilized",
+        "Hexed",
+        "Scorched",
+        "Lunar",
+        "Midas",
+        "Electric",
+        "Silver",
+        "Glossy",
+        "Darkened",
+        "Frozen",
+        "Mosaic",
+        "Negative",
+        "Translucent",
+        "Albino",
+        "Amber",
+        "Poisoned"
+    ],
+    "roi": [
+        554,
+        438,
+        218,
+        94
+    ],
+    "interval": 0.5,
+    "version": "1.0"
+}
